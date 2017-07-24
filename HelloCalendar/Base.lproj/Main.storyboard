@@ -152,6 +152,9 @@
                             <constraint firstItem="jV1-6C-Uuj" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="bxu-eh-gcH"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="calendarView" destination="Dek-Ej-VlL" id="lCb-C3-VM4"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
